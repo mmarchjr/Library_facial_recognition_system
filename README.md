@@ -1,2 +1,0 @@
-# Library_facial_recognition_system
-Created with CodeSandbox
