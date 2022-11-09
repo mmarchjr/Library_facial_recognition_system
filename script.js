@@ -1,5 +1,5 @@
     
-    const URL = prompt("enter the ml url", 
+    const URL = prompt("enter the ml url", "https://teachablemachine.withgoogle.com/models/g_kytcN23/" 
  );//"https://teachablemachine.withgoogle.com/models/g_kytcN23/";
 
     let model, webcam, labelContainer, maxPredictions;
